@@ -30,15 +30,15 @@
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
 
 
- <!-- Contador de visitas -->
+
+  ![Snake animation](https://github.com/felipecampos94/felipecampos94/blob/output/github-contribution-grid-snake.svg)
+
  
-
- <h3> Visitantes </h3>  
-
+ 
+ <!-- Contador de visitas -->
+  <h3> Visitantes </h3>  
  <div>
-
   <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=felipecampos94&color=green" alt="felipecampos94" /> <br>
-
  </div>  
   
-  ![Snake animation](https://github.com/felipecampos94/felipecampos94/blob/output/github-contribution-grid-snake.svg)
+  
