@@ -1,8 +1,5 @@
-<header>
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"> 
-  <link rel="stylesheet" href="devicon.min.css">
-  </header>
-### Olá sou o Felipe! 👋
+
+## Olá sou o Felipe! 👋
 
 - 🔭 Atualmente trabalho com a linguem Java
 - 🌱 Sou graduando em Análise e Desenvolvimento de Sistemas
