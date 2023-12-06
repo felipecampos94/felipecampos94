@@ -10,7 +10,8 @@
 ##
  <!-- Contatos -->
  <h3> Contato </h3>
- <div>   
+ <div>
+  <a href="https://github.com/felipecampos94" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-campos-2a6055183/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>                                          
  <br>
 
